@@ -1,4 +1,4 @@
-package Function.*;
+package Function;
 
 
 import java.awt.*;
